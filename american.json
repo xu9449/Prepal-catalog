@@ -1,14 +1,179 @@
 [
-  { "name": "Buttermilk Pancakes", "emoji": "🥞", "mealType": "breakfast", "keywords": ["flour","egg","butter","milk","syrup"],         "description": "Fluffy stacks drizzled with maple syrup.",                           "calories": 480 },
-  { "name": "Eggs Benedict",       "emoji": "🍳", "mealType": "breakfast", "keywords": ["egg","ham","bread","butter","lemon"],          "description": "Poached eggs over ham with rich hollandaise.",                        "calories": 520 },
-  { "name": "Breakfast Burrito",   "emoji": "🌯", "mealType": "breakfast", "keywords": ["egg","cheese","tortilla","bacon","pepper"],    "description": "Scrambled eggs and bacon wrapped in a warm tortilla.",               "calories": 550 },
-  { "name": "Biscuits & Gravy",    "emoji": "🍞", "mealType": "breakfast", "keywords": ["flour","butter","milk","pork","pepper"],       "description": "Fluffy biscuits smothered in creamy sausage gravy.",                 "calories": 580 },
-  { "name": "Classic Burger",      "emoji": "🍔", "mealType": "lunch",     "keywords": ["ground beef","bread","lettuce","tomato","cheese"], "description": "Juicy beef patty with all the classic fixings.",                  "calories": 650 },
-  { "name": "Mac & Cheese",        "emoji": "🧀", "mealType": "lunch",     "keywords": ["pasta","cheese","milk","butter"],              "description": "Creamy macaroni smothered in sharp cheddar sauce.",                  "calories": 580 },
-  { "name": "BBQ Pulled Pork",     "emoji": "🌮", "mealType": "lunch",     "keywords": ["pork","honey","vinegar","garlic"],             "description": "Slow-cooked pulled pork with smoky BBQ sauce.",                       "calories": 520 },
-  { "name": "Cobb Salad",          "emoji": "🥗", "mealType": "lunch",     "keywords": ["chicken","egg","bacon","lettuce","cheese"],    "description": "Hearty salad with chicken, bacon, and avocado.",                     "calories": 480 },
-  { "name": "New York Strip",      "emoji": "🥩", "mealType": "dinner",    "keywords": ["steak","butter","garlic","rosemary"],          "description": "Pan-seared steak with garlic herb butter.",                          "calories": 680 },
-  { "name": "Clam Chowder",        "emoji": "🍲", "mealType": "dinner",    "keywords": ["seafood","potato","cream","onion","celery"],   "description": "Creamy New England chowder with tender clams.",                      "calories": 440 },
-  { "name": "Chicken & Waffles",   "emoji": "🧇", "mealType": "dinner",    "keywords": ["chicken","flour","egg","butter","syrup"],      "description": "Crispy fried chicken on golden waffles with syrup.",                 "calories": 780 },
-  { "name": "Meatloaf",            "emoji": "🍖", "mealType": "dinner",    "keywords": ["ground beef","egg","onion","tomato","bread"],  "description": "Classic comfort meatloaf with a tangy glaze.",                       "calories": 520 }
+  {
+    "name": "Buttermilk Pancakes",
+    "emoji": "🥞",
+    "mealType": "breakfast",
+    "keywords": [
+      "flour",
+      "egg",
+      "butter",
+      "milk",
+      "syrup"
+    ],
+    "description": "Fluffy stacks drizzled with maple syrup.",
+    "calories": 480,
+    "recipe": []
+  },
+  {
+    "name": "Eggs Benedict",
+    "emoji": "🍳",
+    "mealType": "breakfast",
+    "keywords": [
+      "egg",
+      "ham",
+      "bread",
+      "butter",
+      "lemon"
+    ],
+    "description": "Poached eggs over ham with rich hollandaise.",
+    "calories": 520,
+    "recipe": []
+  },
+  {
+    "name": "Breakfast Burrito",
+    "emoji": "🌯",
+    "mealType": "breakfast",
+    "keywords": [
+      "egg",
+      "cheese",
+      "tortilla",
+      "bacon",
+      "pepper"
+    ],
+    "description": "Scrambled eggs and bacon wrapped in a warm tortilla.",
+    "calories": 550,
+    "recipe": []
+  },
+  {
+    "name": "Biscuits & Gravy",
+    "emoji": "🍞",
+    "mealType": "breakfast",
+    "keywords": [
+      "flour",
+      "butter",
+      "milk",
+      "pork",
+      "pepper"
+    ],
+    "description": "Fluffy biscuits smothered in creamy sausage gravy.",
+    "calories": 580,
+    "recipe": []
+  },
+  {
+    "name": "Classic Burger",
+    "emoji": "🍔",
+    "mealType": "lunch",
+    "keywords": [
+      "ground beef",
+      "bread",
+      "lettuce",
+      "tomato",
+      "cheese"
+    ],
+    "description": "Juicy beef patty with all the classic fixings.",
+    "calories": 650,
+    "recipe": []
+  },
+  {
+    "name": "Mac & Cheese",
+    "emoji": "🧀",
+    "mealType": "lunch",
+    "keywords": [
+      "pasta",
+      "cheese",
+      "milk",
+      "butter"
+    ],
+    "description": "Creamy macaroni smothered in sharp cheddar sauce.",
+    "calories": 580,
+    "recipe": []
+  },
+  {
+    "name": "BBQ Pulled Pork",
+    "emoji": "🌮",
+    "mealType": "lunch",
+    "keywords": [
+      "pork",
+      "honey",
+      "vinegar",
+      "garlic"
+    ],
+    "description": "Slow-cooked pulled pork with smoky BBQ sauce.",
+    "calories": 520,
+    "recipe": []
+  },
+  {
+    "name": "Cobb Salad",
+    "emoji": "🥗",
+    "mealType": "lunch",
+    "keywords": [
+      "chicken",
+      "egg",
+      "bacon",
+      "lettuce",
+      "cheese"
+    ],
+    "description": "Hearty salad with chicken, bacon, and avocado.",
+    "calories": 480,
+    "recipe": []
+  },
+  {
+    "name": "New York Strip",
+    "emoji": "🥩",
+    "mealType": "dinner",
+    "keywords": [
+      "steak",
+      "butter",
+      "garlic",
+      "rosemary"
+    ],
+    "description": "Pan-seared steak with garlic herb butter.",
+    "calories": 680,
+    "recipe": []
+  },
+  {
+    "name": "Clam Chowder",
+    "emoji": "🍲",
+    "mealType": "dinner",
+    "keywords": [
+      "seafood",
+      "potato",
+      "cream",
+      "onion",
+      "celery"
+    ],
+    "description": "Creamy New England chowder with tender clams.",
+    "calories": 440,
+    "recipe": []
+  },
+  {
+    "name": "Chicken & Waffles",
+    "emoji": "🧇",
+    "mealType": "dinner",
+    "keywords": [
+      "chicken",
+      "flour",
+      "egg",
+      "butter",
+      "syrup"
+    ],
+    "description": "Crispy fried chicken on golden waffles with syrup.",
+    "calories": 780,
+    "recipe": []
+  },
+  {
+    "name": "Meatloaf",
+    "emoji": "🍖",
+    "mealType": "dinner",
+    "keywords": [
+      "ground beef",
+      "egg",
+      "onion",
+      "tomato",
+      "bread"
+    ],
+    "description": "Classic comfort meatloaf with a tangy glaze.",
+    "calories": 520,
+    "recipe": []
+  }
 ]

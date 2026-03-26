@@ -1,15 +1,183 @@
 [
-  { "name": "Congee",             "emoji": "🍚", "mealType": "breakfast", "keywords": ["rice","ginger","scallion"],                    "description": "Silky rice porridge with ginger and toppings.",                      "calories": 180 },
-  { "name": "Scallion Pancake",   "emoji": "🥞", "mealType": "breakfast", "keywords": ["flour","scallion","oil"],                     "description": "Crispy layered pan-fried scallion flatbread.",                       "calories": 320 },
-  { "name": "Steamed Bao",        "emoji": "🥟", "mealType": "breakfast", "keywords": ["flour","pork","soy sauce"],                   "description": "Fluffy steamed buns filled with savory pork.",                       "calories": 280 },
-  { "name": "Soy Milk & Youtiao", "emoji": "🥛", "mealType": "breakfast", "keywords": ["flour","oil","egg"],                          "description": "Deep-fried dough sticks with warm soy milk.",                        "calories": 350 },
-  { "name": "Kung Pao Chicken",   "emoji": "🥘", "mealType": "lunch",     "keywords": ["chicken","peanut","soy sauce","ginger","garlic"], "description": "Spicy stir-fried chicken with peanuts and chilli.",              "calories": 420 },
-  { "name": "Dan Dan Noodles",    "emoji": "🍜", "mealType": "lunch",     "keywords": ["noodle","pork","soy sauce","sesame","scallion"], "description": "Spicy Sichuan noodles with minced pork.",                         "calories": 480 },
-  { "name": "Mapo Tofu",          "emoji": "🫕", "mealType": "lunch",     "keywords": ["tofu","pork","soy sauce","garlic","ginger"],   "description": "Silky tofu in a fiery Sichuan peppercorn sauce.",                    "calories": 350 },
-  { "name": "Egg Fried Rice",     "emoji": "🍳", "mealType": "lunch",     "keywords": ["rice","egg","soy sauce","scallion"],           "description": "Classic wok-fried rice with eggs and soy sauce.",                    "calories": 400 },
-  { "name": "Char Siu Pork",      "emoji": "🥩", "mealType": "lunch",     "keywords": ["pork","soy sauce","honey","garlic"],           "description": "Cantonese honey-glazed BBQ pork.",                                   "calories": 460 },
-  { "name": "Peking Duck",        "emoji": "🦆", "mealType": "dinner",    "keywords": ["duck","scallion","cucumber"],                  "description": "Crispy duck served with pancakes and hoisin sauce.",                 "calories": 560 },
-  { "name": "Sweet & Sour Pork",  "emoji": "🍖", "mealType": "dinner",    "keywords": ["pork","vinegar","tomato","pepper"],            "description": "Crispy pork tossed in a vibrant sweet-sour glaze.",                  "calories": 520 },
-  { "name": "Hot Pot",            "emoji": "🍲", "mealType": "dinner",    "keywords": ["beef","tofu","mushroom","broth","noodle"],     "description": "Simmering broth with meats and vegetables.",                         "calories": 600 },
-  { "name": "Steamed Fish",       "emoji": "🐟", "mealType": "dinner",    "keywords": ["fish","ginger","soy sauce","scallion"],        "description": "Whole fish steamed with ginger and soy sauce.",                      "calories": 300 }
+  {
+    "name": "Congee",
+    "emoji": "🍚",
+    "mealType": "breakfast",
+    "keywords": [
+      "rice",
+      "ginger",
+      "scallion"
+    ],
+    "description": "Silky rice porridge with ginger and toppings.",
+    "calories": 180,
+    "recipe": []
+  },
+  {
+    "name": "Scallion Pancake",
+    "emoji": "🥞",
+    "mealType": "breakfast",
+    "keywords": [
+      "flour",
+      "scallion",
+      "oil"
+    ],
+    "description": "Crispy layered pan-fried scallion flatbread.",
+    "calories": 320,
+    "recipe": []
+  },
+  {
+    "name": "Steamed Bao",
+    "emoji": "🥟",
+    "mealType": "breakfast",
+    "keywords": [
+      "flour",
+      "pork",
+      "soy sauce"
+    ],
+    "description": "Fluffy steamed buns filled with savory pork.",
+    "calories": 280,
+    "recipe": []
+  },
+  {
+    "name": "Soy Milk & Youtiao",
+    "emoji": "🥛",
+    "mealType": "breakfast",
+    "keywords": [
+      "flour",
+      "oil",
+      "egg"
+    ],
+    "description": "Deep-fried dough sticks with warm soy milk.",
+    "calories": 350,
+    "recipe": []
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "emoji": "🥘",
+    "mealType": "lunch",
+    "keywords": [
+      "chicken",
+      "peanut",
+      "soy sauce",
+      "ginger",
+      "garlic"
+    ],
+    "description": "Spicy stir-fried chicken with peanuts and chilli.",
+    "calories": 420,
+    "recipe": []
+  },
+  {
+    "name": "Dan Dan Noodles",
+    "emoji": "🍜",
+    "mealType": "lunch",
+    "keywords": [
+      "noodle",
+      "pork",
+      "soy sauce",
+      "sesame",
+      "scallion"
+    ],
+    "description": "Spicy Sichuan noodles with minced pork.",
+    "calories": 480,
+    "recipe": []
+  },
+  {
+    "name": "Mapo Tofu",
+    "emoji": "🫕",
+    "mealType": "lunch",
+    "keywords": [
+      "tofu",
+      "pork",
+      "soy sauce",
+      "garlic",
+      "ginger"
+    ],
+    "description": "Silky tofu in a fiery Sichuan peppercorn sauce.",
+    "calories": 350,
+    "recipe": []
+  },
+  {
+    "name": "Egg Fried Rice",
+    "emoji": "🍳",
+    "mealType": "lunch",
+    "keywords": [
+      "rice",
+      "egg",
+      "soy sauce",
+      "scallion"
+    ],
+    "description": "Classic wok-fried rice with eggs and soy sauce.",
+    "calories": 400,
+    "recipe": []
+  },
+  {
+    "name": "Char Siu Pork",
+    "emoji": "🥩",
+    "mealType": "lunch",
+    "keywords": [
+      "pork",
+      "soy sauce",
+      "honey",
+      "garlic"
+    ],
+    "description": "Cantonese honey-glazed BBQ pork.",
+    "calories": 460,
+    "recipe": []
+  },
+  {
+    "name": "Peking Duck",
+    "emoji": "🦆",
+    "mealType": "dinner",
+    "keywords": [
+      "duck",
+      "scallion",
+      "cucumber"
+    ],
+    "description": "Crispy duck served with pancakes and hoisin sauce.",
+    "calories": 560,
+    "recipe": []
+  },
+  {
+    "name": "Sweet & Sour Pork",
+    "emoji": "🍖",
+    "mealType": "dinner",
+    "keywords": [
+      "pork",
+      "vinegar",
+      "tomato",
+      "pepper"
+    ],
+    "description": "Crispy pork tossed in a vibrant sweet-sour glaze.",
+    "calories": 520,
+    "recipe": []
+  },
+  {
+    "name": "Hot Pot",
+    "emoji": "🍲",
+    "mealType": "dinner",
+    "keywords": [
+      "beef",
+      "tofu",
+      "mushroom",
+      "broth",
+      "noodle"
+    ],
+    "description": "Simmering broth with meats and vegetables.",
+    "calories": 600,
+    "recipe": []
+  },
+  {
+    "name": "Steamed Fish",
+    "emoji": "🐟",
+    "mealType": "dinner",
+    "keywords": [
+      "fish",
+      "ginger",
+      "soy sauce",
+      "scallion"
+    ],
+    "description": "Whole fish steamed with ginger and soy sauce.",
+    "calories": 300,
+    "recipe": []
+  }
 ]
