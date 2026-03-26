@@ -1,0 +1,15 @@
+[
+  { "name": "Tamagoyaki",        "emoji": "🍳", "mealType": "breakfast", "keywords": ["egg","soy sauce","sugar"],                      "description": "Sweet rolled omelette, a Japanese breakfast staple.",                "calories": 180 },
+  { "name": "Miso Soup & Rice",  "emoji": "🍚", "mealType": "breakfast", "keywords": ["miso","tofu","scallion","rice"],                "description": "Comforting miso broth with tofu and steamed rice.",                  "calories": 220 },
+  { "name": "Onigiri",           "emoji": "🍙", "mealType": "breakfast", "keywords": ["rice","salmon","nori","soy sauce"],             "description": "Rice balls with savory fillings wrapped in nori.",                    "calories": 240 },
+  { "name": "Natto Rice",        "emoji": "🫘", "mealType": "breakfast", "keywords": ["rice","soy sauce","scallion","egg"],            "description": "Fermented soybeans on rice with a soft-boiled egg.",                 "calories": 300 },
+  { "name": "Ramen",             "emoji": "🍜", "mealType": "lunch",     "keywords": ["noodle","pork","soy sauce","egg","scallion"],   "description": "Rich broth with springy noodles and tender pork.",                   "calories": 520 },
+  { "name": "Sushi Platter",     "emoji": "🍣", "mealType": "lunch",     "keywords": ["rice","salmon","tuna","nori","vinegar"],        "description": "Assorted nigiri and rolls with soy and wasabi.",                     "calories": 380 },
+  { "name": "Tempura",           "emoji": "🦐", "mealType": "lunch",     "keywords": ["shrimp","flour","egg","oil"],                   "description": "Light, crispy battered shrimp and vegetables.",                      "calories": 460 },
+  { "name": "Udon Noodle Soup",  "emoji": "🍜", "mealType": "lunch",     "keywords": ["noodle","tofu","scallion","soy sauce"],         "description": "Thick udon noodles in a delicate dashi broth.",                      "calories": 340 },
+  { "name": "Katsu Curry",       "emoji": "🍛", "mealType": "lunch",     "keywords": ["pork","flour","egg","rice","curry"],            "description": "Crispy pork cutlet on rice with Japanese curry sauce.",               "calories": 680 },
+  { "name": "Tonkatsu",          "emoji": "🥩", "mealType": "dinner",    "keywords": ["pork","flour","egg","breadcrumb","cabbage"],    "description": "Crispy breaded pork cutlet with tonkatsu sauce.",                    "calories": 580 },
+  { "name": "Yakitori",          "emoji": "🍢", "mealType": "dinner",    "keywords": ["chicken","soy sauce","sugar","scallion"],       "description": "Charcoal-grilled chicken skewers with tare glaze.",                  "calories": 320 },
+  { "name": "Shabu-Shabu",       "emoji": "🍲", "mealType": "dinner",    "keywords": ["beef","tofu","mushroom","scallion"],            "description": "Thin beef slices swished in hot broth with veggies.",                "calories": 420 },
+  { "name": "Gyoza",             "emoji": "🥟", "mealType": "dinner",    "keywords": ["pork","cabbage","garlic","ginger","soy sauce"], "description": "Pan-fried dumplings with crispy bottom and juicy filling.",          "calories": 360 }
+]
