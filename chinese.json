@@ -179,5 +179,31 @@
     "description": "Whole fish steamed with ginger and soy sauce.",
     "calories": 300,
     "recipe": []
+  },
+  {
+    "name": "Claypot Rice",
+    "emoji": "🫕",
+    "mealType": "dinner",
+    "keywords": [
+      "rice",
+      "chinese sausage",
+      "pork",
+      "soy sauce",
+      "lard"
+    ],
+    "description": "Cantonese claypot rice with cured sausage, pork belly, and a crispy golden crust.",
+    "calories": 620,
+    "recipe": [
+      "Rinse 350g jasmine rice and soak in cold water for 40 minutes, then drain well. Soaking ensures even cooking regardless of rice variety.",
+      "Blanch Chinese kale in salted boiling water with a small splash of baijiu (white spirits) for 10 seconds until bright green. Immediately transfer to cold water to stop cooking and keep it crisp.",
+      "Blanch 150g Chinese sausage and cured pork belly together in boiling water for 2 minutes to clean and draw out their aroma. While still hot, peel the casing off the sausage, then slice both on a diagonal.",
+      "Make the claypot sauce: fry sliced scallion, 2 garlic cloves, a small piece of onion, 1 star anise, 1 bay leaf, and a pinch of fennel seeds in oil over medium heat until golden. Add 3 tbsp light soy sauce, ½ tbsp oyster sauce, ½ tbsp dark soy sauce, and 1 tsp sugar. Stir, add 4 tbsp water, bring to a boil, and simmer 15 seconds. Strain and set aside.",
+      "Generously grease a clay pot — bottom and sides — with lard or peanut oil (about 4 spoonfuls). This prevents sticking and builds the signature crust.",
+      "Add 400g cold water to the greased pot and bring to a boil over high heat. Just as the edges begin to bubble (before a full rolling boil), pour in the drained rice and spread it flat with a spatula.",
+      "Cook uncovered on high heat until the water reaches a full boil. Reduce to medium-low, cover with the lid slightly ajar, and steam for 2 minutes until almost all the water is absorbed.",
+      "Quickly arrange the sliced sausage and pork on top of the rice. Drizzle oil in a circle along the inner edge of the pot. Cover fully and reduce to the lowest heat setting.",
+      "Rotate the pot 90° every 3 minutes so each quarter of the bottom faces the flame — 4 rotations × 3 minutes = 12 minutes total. This evenly crisps all sides of the crust without burning any spot.",
+      "Turn off the heat. Drizzle the claypot sauce generously over the rice, top with the blanched greens, and toss everything together. Scrape up the golden crunchy crust from the bottom — that's the best part."
+    ]
   }
 ]
