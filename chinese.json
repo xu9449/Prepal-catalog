@@ -1,209 +1,329 @@
 [
   {
     "name": "Congee",
+    "name_zh": "皮蛋瘦肉粥",
     "emoji": "🍚",
     "mealType": "breakfast",
-    "keywords": [
-      "rice",
-      "ginger",
-      "scallion"
-    ],
-    "description": "Silky rice porridge with ginger and toppings.",
-    "calories": 180,
-    "recipe": []
+    "keywords": ["rice", "pork", "century egg", "ginger", "scallion"],
+    "description": "Cantonese silky rice porridge with century egg and tender minced pork.",
+    "description_zh": "粤式皮蛋瘦肉粥，米粒软糯绵滑，皮蛋香浓，瘦肉鲜嫩，是早餐经典之选。",
+    "calories": 220,
+    "recipe": [
+      "将150g大米淘洗干净，加入1茶匙花生油和少许盐腌制30分钟，油能让米粒更爽滑。",
+      "将100g猪里脊切细丝，加入生抽1汤匙、生粉1茶匙、芝麻油少许腌制15分钟备用。",
+      "皮蛋2个去壳，切成小丁，老姜切细丝备用。",
+      "锅中加入1.5升清水或猪骨高汤，大火烧开，放入腌好的大米，同时加入姜丝。",
+      "再次沸腾后转中小火，盖上锅盖留一条缝，熬煮40分钟，期间每10分钟搅拌一次防止粘底。",
+      "待米粒完全开花、粥体浓稠后，放入皮蛋丁，转大火，将腌制好的肉丝拨散加入，用筷子迅速搅散防止结块。",
+      "煮至肉丝变色（约1分钟），关火，撒入切碎的香葱、白胡椒粉，淋几滴芝麻油即可上桌。"
+    ]
   },
   {
     "name": "Scallion Pancake",
+    "name_zh": "葱油饼",
     "emoji": "🥞",
     "mealType": "breakfast",
-    "keywords": [
-      "flour",
-      "scallion",
-      "oil"
-    ],
+    "keywords": ["flour", "scallion", "oil"],
     "description": "Crispy layered pan-fried scallion flatbread.",
+    "description_zh": "层层酥脆的手工葱油饼，外皮金黄焦香，内里柔软，葱香四溢，是北方经典早点。",
     "calories": 320,
-    "recipe": []
+    "recipe": [
+      "将300g中筋面粉分成两份，一份加入约170ml刚烧开的沸水，边倒边用筷子搅成雪花状（烫面法），另一份加室温水揉成团，两者合并揉匀，盖保鲜膜醒面30分钟。",
+      "猪油（或植物油）100g加入少许盐和花椒粉调匀，制成油酥备用。",
+      "大葱或小葱切细末约半碗，加少许盐拌匀稍微出水，挤去多余水分。",
+      "将醒好的面团擀成薄长方形面片，均匀涂抹油酥，撒上葱末，从一端卷起成长条，再将长条盘成螺旋形，压扁，再次擀薄至约0.5cm厚。",
+      "平底锅中倒入适量油，中火加热，放入饼坯，煎至底面金黄后翻面，双面煎约各3分钟，用锅铲轻拍饼面让层次松散。",
+      "将饼移至热锅边缘，改小火再焙约1分钟，使内部彻底熟透，表皮更酥脆。趁热切块上桌。"
+    ]
   },
   {
     "name": "Steamed Bao",
+    "name_zh": "鲜肉包子",
     "emoji": "🥟",
     "mealType": "breakfast",
-    "keywords": [
-      "flour",
-      "pork",
-      "soy sauce"
-    ],
+    "keywords": ["flour", "pork", "soy sauce", "ginger", "scallion"],
     "description": "Fluffy steamed buns filled with savory pork.",
+    "description_zh": "发面松软的手工鲜肉包，馅料鲜嫩多汁，皮薄馅大，是中国最受欢迎的早点之一。",
     "calories": 280,
-    "recipe": []
+    "recipe": [
+      "将300g中筋面粉、5g酵母、15g白糖混合，加入约160ml温水（35°C），揉成光滑面团，盖湿布发酵至两倍大，约1小时。",
+      "猪前腿肉300g（三分肥七分瘦）手工剁成肉末，或用绞肉机粗绞一遍保留颗粒感。",
+      "肉末中分三次加入约100ml葱姜水（葱段、姜片泡水），每次加入后顺一个方向搅拌上劲，让肉充分吸水变嫩。",
+      "肉馅中加入生抽2汤匙、老抽半茶匙、蚝油1汤匙、白糖半茶匙、白胡椒粉少许、芝麻油1茶匙，搅拌均匀腌制片刻，最后加盐调味。",
+      "将发好的面团揉至排气，分成每个约50g的小剂子，擀成中间厚边缘薄的面皮（直径约10cm）。",
+      "取一张面皮，放入约25g肉馅，用拇指和食指交替捏出褶皱，收口朝上，包好后静置醒发15分钟至包子变轻盈。",
+      "蒸锅水烧开后，包子放入铺有湿布或油纸的蒸笼，大火蒸15分钟，关火后再焖2分钟再开盖，防止塌陷。"
+    ]
   },
   {
     "name": "Soy Milk & Youtiao",
+    "name_zh": "豆浆油条",
     "emoji": "🥛",
     "mealType": "breakfast",
-    "keywords": [
-      "flour",
-      "oil",
-      "egg"
-    ],
+    "keywords": ["flour", "oil", "egg", "soy milk"],
     "description": "Deep-fried dough sticks with warm soy milk.",
+    "description_zh": "酥脆中空的油条配上香浓热豆浆，是中国最经典的早餐组合，一口咬下外酥内嫩。",
     "calories": 350,
-    "recipe": []
+    "recipe": [
+      "提前一晚制作油条面团：250g中筋面粉加入1茶匙盐、1茶匙泡打粉、半茶匙小苏打，混合均匀后加入鸡蛋1个和约130ml清水，揉至面团光滑，加1汤匙植物油继续揉匀，冷藏静置一夜（最少8小时）。",
+      "豆浆提前泡发黄豆并用豆浆机打制，或购买新鲜豆浆，小火加热至沸腾，加入少许盐或白糖调味。",
+      "取出冷藏面团，室温回温30分钟，轻柔地将面团擀成约1cm厚的长方形，切成约2cm宽的条状。",
+      "将两根面条叠放，用筷子在中间用力压一条印，两端稍捏紧，让两根面条粘合在一起。",
+      "锅中倒入足量食用油，加热至约190°C（可插入木筷子，周围冒细密泡泡为佳），轻轻放入油条坯。",
+      "下锅后立即用筷子翻动，保持滚动炸制约2分钟至金黄膨胀，捞出放在厨房纸上吸油，趁热搭配豆浆享用。"
+    ]
+  },
+  {
+    "name": "Tomato & Egg Stir-fry",
+    "name_zh": "番茄炒蛋",
+    "emoji": "🍳",
+    "mealType": "lunch",
+    "keywords": ["tomato", "egg", "scallion", "sugar"],
+    "description": "The most beloved Chinese home dish: silky scrambled eggs with juicy tomatoes.",
+    "description_zh": "中国最受欢迎的家常菜之一，酸甜多汁的番茄搭配嫩滑鸡蛋，下饭神器，每个中国人都有自己的独家做法。",
+    "calories": 280,
+    "recipe": [
+      "鸡蛋3个打入碗中，加入少许盐和半茶匙料酒，用筷子充分打散至完全均匀，静置5分钟让气泡消散，蛋液会更嫩滑。",
+      "番茄2个顶部划十字，用开水烫30秒后去皮（去皮炒出来口感更细腻），切成滚刀块或厚片，加少许糖腌制5分钟逼出汁水。",
+      "锅中油热至七成（轻微冒烟），倒入蛋液，不要立刻搅动，等底部开始凝固时，用铲子从边缘向中心翻炒，让鸡蛋呈大块嫩滑状，八分熟时盛出备用——不要炒老。",
+      "锅中再加少量油，放入葱白段爆香，倒入番茄翻炒2分钟至出汁，加入半茶匙盐、1茶匙白糖（消除酸味）、少许生抽提鲜。",
+      "将鸡蛋倒回锅中，与番茄快速翻炒均匀，淋入水淀粉（半茶匙淀粉兑1汤匙水）勾薄芡，让汤汁包裹住食材。",
+      "撒入葱绿翻匀，淋几滴芝麻油增香，立刻出锅，与热米饭搭配享用。"
+    ]
   },
   {
     "name": "Kung Pao Chicken",
+    "name_zh": "宫保鸡丁",
     "emoji": "🥘",
     "mealType": "lunch",
-    "keywords": [
-      "chicken",
-      "peanut",
-      "soy sauce",
-      "ginger",
-      "garlic"
-    ],
+    "keywords": ["chicken", "peanut", "dried chili", "soy sauce", "vinegar", "ginger", "garlic"],
     "description": "Spicy stir-fried chicken with peanuts and chilli.",
+    "description_zh": "川菜经典，鸡丁嫩滑，花生酥脆，麻辣酸甜四味融合，宫保汁的黄金比例成就这道名菜。",
     "calories": 420,
-    "recipe": []
+    "recipe": [
+      "鸡胸肉300g切1.5cm见方丁，用生抽1汤匙、料酒1汤匙、淀粉1汤匙、蛋清半个抓匀，腌制15分钟，加少许花生油封面防粘连。",
+      "调宫保汁：生抽2汤匙、老陈醋2汤匙、白糖2汤匙、淀粉1汤匙、水2汤匙混合均匀，这是正宗宫保鸡丁的黄金比例（甜、酸、咸三味平衡）。",
+      "干红辣椒8-10根剪成小段（保留辣椒籽更辣），大蒜3瓣切片，生姜3片，葱白切马蹄形，花生米提前在无油锅中小火炒香，去皮放凉备用。",
+      "锅烧至微微冒烟，加入适量油，放入鸡丁大火快炒，用铲子快速翻动至变色断生（约1分半钟），盛出备用，不要炒至全熟。",
+      "锅中留少量底油，中火放入干辣椒和花椒粒爆出香味（辣椒变深红色但不焦黑），放入姜蒜爆香，再加入葱白段翻炒。",
+      "倒入鸡丁翻炒均匀，沿锅边淋入宫保汁，大火翻炒至汤汁变稠裹匀食材，最后放入花生米快速翻匀立即出锅，保持花生酥脆口感。"
+    ]
   },
   {
     "name": "Dan Dan Noodles",
+    "name_zh": "担担面",
     "emoji": "🍜",
     "mealType": "lunch",
-    "keywords": [
-      "noodle",
-      "pork",
-      "soy sauce",
-      "sesame",
-      "scallion"
-    ],
+    "keywords": ["noodle", "pork", "soy sauce", "sesame paste", "scallion", "Sichuan peppercorn"],
     "description": "Spicy Sichuan noodles with minced pork.",
+    "description_zh": "成都街头小吃的灵魂，芝麻酱底味醇厚，花椒麻辣交织，肉末酥香，面条爽滑，层次丰富。",
     "calories": 480,
-    "recipe": []
+    "recipe": [
+      "制作芝麻底料：芝麻酱2汤匙用温水调开至顺滑，加入花生酱1汤匙、生抽2汤匙、老陈醋1汤匙、芝麻油1汤匙、白糖半茶匙，调匀备用。",
+      "红油制作：辣椒粉2汤匙放入碗中，热油分三次浇入（油温分别约200°C、160°C、120°C），激发不同层次的香气，加入花椒粉半茶匙。",
+      "猪肉末150g加入甜面酱1汤匙、生抽1汤匙、料酒1汤匙，中火翻炒至酥香有颗粒感，这是担担面的精髓臊子，炒至水分完全收干。",
+      "葱白切细末，芽菜（宜宾碎米芽菜最正宗）洗净切碎，蒜末少许备用，花生碎和熟芝麻各适量。",
+      "取大碗，依次放入芝麻底料、红油、蒜末、花椒粉，加入一勺煮面的热汤水稀释调匀，铺上切碎的芽菜。",
+      "细碱面（或鲜面条）在大量沸水中煮至刚熟（约2分钟），捞出放入碗中，不要过冷水，淋上臊子和葱花，吃前充分拌匀，让每根面条都裹满酱汁。"
+    ]
   },
   {
     "name": "Mapo Tofu",
+    "name_zh": "麻婆豆腐",
     "emoji": "🫕",
     "mealType": "lunch",
-    "keywords": [
-      "tofu",
-      "pork",
-      "soy sauce",
-      "garlic",
-      "ginger"
-    ],
+    "keywords": ["tofu", "pork", "doubanjiang", "garlic", "ginger", "Sichuan peppercorn"],
     "description": "Silky tofu in a fiery Sichuan peppercorn sauce.",
+    "description_zh": "麻辣鲜香俱全的川菜经典，豆腐嫩滑入味，郫县豆瓣酱是灵魂，一定要用花椒粉收尾才正宗。",
     "calories": 350,
-    "recipe": []
+    "recipe": [
+      "嫩豆腐或内酯豆腐400g切1.5cm见方小块，放入加了少许盐的沸水中焯烫2分钟，去除豆腥味，捞出沥干备用——这一步极为关键。",
+      "猪肉末100g中加入生抽半茶匙、料酒1茶匙腌制片刻，郫县豆瓣酱2汤匙剁细（这是麻婆豆腐的核心食材，正宗必用）。",
+      "锅中油热后（用猪油更香），放入肉末煸炒至变色酥香，加入豆瓣酱小火翻炒3-4分钟至出红油，豆瓣酱的炒香程度直接决定成菜色泽与香味。",
+      "加入蒜末2瓣、姜末1小块、豆豉1汤匙（剁碎）翻炒出香，倒入热高汤或热水约250ml，大火烧开，轻推豆腐入锅，中火煮3-4分钟让豆腐充分入味。",
+      "加生抽1汤匙调色，尝味后用盐补充咸度，分两次淋入水淀粉（淀粉2汤匙兑水3汤匙）勾芡至汤汁浓稠能挂住豆腐为止。",
+      "出锅前淋入几滴花椒油，撒上现磨花椒粉（约半茶匙）和葱花，趁热上桌配白米饭。切记花椒粉要最后放，香麻味才不流失。"
+    ]
+  },
+  {
+    "name": "Fish-Fragrant Shredded Pork",
+    "name_zh": "鱼香肉丝",
+    "emoji": "🥢",
+    "mealType": "lunch",
+    "keywords": ["pork", "wood ear mushroom", "carrot", "doubanjiang", "vinegar", "sugar"],
+    "description": "Classic Sichuan stir-fry with a tangy, spicy, garlic-ginger sauce — no fish required.",
+    "description_zh": "川菜招牌之一，鱼香汁酸甜麻辣鲜咸俱全，丝毫不含鱼却充满鱼香味，与白米饭是绝配。",
+    "calories": 380,
+    "recipe": [
+      "猪里脊肉250g顺纹切细丝，加入生抽1汤匙、料酒1汤匙、淀粉1汤匙、蛋清半个，朝一个方向搅拌上劲，再加少许油封面腌制20分钟。",
+      "调鱼香汁：生抽2汤匙、老陈醋2汤匙、白糖2汤匙、淀粉1汤匙、清水3汤匙，混合均匀备用（酸甜咸的比例是关键）。",
+      "木耳（提前泡发）撕成细条，胡萝卜切细丝，泡姜（四川泡菜中的姜）或嫩姜切细末，泡椒剁细（无泡椒可用郫县豆瓣酱），葱白、蒜各切细末。",
+      "热锅冷油，油温六成热时放入肉丝，快速划散至变色断生立即盛出，不要过熟。",
+      "锅中留底油，放入泡椒末（或豆瓣酱）小火炒出红油和香味，加入姜末、蒜末翻炒，放入木耳和胡萝卜丝大火翻炒1分钟。",
+      "倒入肉丝翻炒均匀，沿锅边倒入鱼香汁，大火快速翻炒至汤汁收浓裹满食材，撒上葱绿翻匀出锅，立刻配米饭享用。"
+    ]
   },
   {
     "name": "Egg Fried Rice",
+    "name_zh": "蛋炒饭",
     "emoji": "🍳",
     "mealType": "lunch",
-    "keywords": [
-      "rice",
-      "egg",
-      "soy sauce",
-      "scallion"
-    ],
+    "keywords": ["rice", "egg", "soy sauce", "scallion"],
     "description": "Classic wok-fried rice with eggs and soy sauce.",
+    "description_zh": "经典大火爆炒蛋炒饭，粒粒分明，蛋香四溢，用隔夜冷饭才能炒出最佳口感。",
     "calories": 400,
-    "recipe": []
+    "recipe": [
+      "隔夜冷饭（粳米饭最佳）300g提前用手抓散，避免结块，这是炒出粒粒分明的关键。鸡蛋3个打散，加入少许盐和白胡椒粉。",
+      "葱切成葱花，可选择加入火腿丁、豌豆、胡萝卜丁等配菜提前焯水备用。",
+      "铁锅大火烧至冒烟，加入猪油（或植物油）2汤匙，油热后倒入蛋液，快速用铲子搅散至半熟状（像嫩豆腐质感），立即盛出。",
+      "锅中再加少量油，大火倒入冷饭，用铲子不停按压翻炒，让每粒米饭都受热均匀，炒约2分钟至饭粒稍微透明有焦香味。",
+      "将鸡蛋碎倒回锅中，与米饭一起翻炒均匀，沿锅边淋入生抽1汤匙（锅边滋啦一声），让酱油遇热激发焦香味，快速翻炒5秒。",
+      "加入盐调味，撒入葱花翻匀，淋几滴芝麻油，立即出锅，火候要大、速度要快，整个过程不超过5分钟。"
+    ]
+  },
+  {
+    "name": "Red Braised Pork Belly",
+    "name_zh": "红烧肉",
+    "emoji": "🥩",
+    "mealType": "lunch",
+    "keywords": ["pork belly", "soy sauce", "rock sugar", "star anise", "Shaoxing wine"],
+    "description": "Melt-in-your-mouth braised pork belly — China's most iconic comfort dish.",
+    "description_zh": "中国最经典的家常硬菜，五花肉经过小火慢炖后油脂化开入味，肥而不腻，入口即化，是无数人的家乡味道。",
+    "calories": 580,
+    "recipe": [
+      "带皮五花肉500g切成3cm见方的大块，冷水下锅，加入葱段、姜片、料酒，大火烧开焯水5分钟，捞出用温水冲洗干净，沥干备用。",
+      "锅中放少许油，开小火，将焯好的五花肉皮面朝下放入，小火煎至猪皮金黄微焦，逼出部分油脂，四面煎一遍，盛出备用。",
+      "锅中留少量底油，放入冰糖30g，小火炒至完全融化变成琥珀色（枣红色）焦糖，立即放入五花肉块翻炒上色，动作要快，防止糖色过焦变苦。",
+      "加入生抽3汤匙、老抽1汤匙、料酒（花雕酒最佳）3汤匙，放入八角2个、桂皮1小块、香叶2片、葱段、姜片，倒入热开水没过肉块。",
+      "大火烧开后转最小火，盖上锅盖慢炖60-80分钟（用筷子能轻松插入肉块为熟），期间翻动2-3次防止粘底。",
+      "开盖转大火收汁，不断翻炒让汤汁浓稠裹满每块肉，至汤汁收至少量油亮状态，撒葱花出锅，配白米饭或馒头最佳。"
+    ]
   },
   {
     "name": "Char Siu Pork",
-    "emoji": "🥩",
+    "name_zh": "叉烧肉",
+    "emoji": "🥓",
     "mealType": "lunch",
-    "keywords": [
-      "pork",
-      "soy sauce",
-      "honey",
-      "garlic"
-    ],
+    "keywords": ["pork", "soy sauce", "honey", "garlic", "hoisin sauce"],
     "description": "Cantonese honey-glazed BBQ pork.",
+    "description_zh": "粤式经典蜜汁叉烧，表皮焦糖化后香甜微焦，内里粉嫩多汁，是港式茶餐厅的灵魂菜色。",
     "calories": 460,
-    "recipe": []
+    "recipe": [
+      "猪梅花肉（梅头肉）400g切成约3cm厚的长条，不要切太薄否则容易干柴。",
+      "腌料：海鲜酱（柱候酱）2汤匙、生抽2汤匙、老抽半茶匙、白糖2汤匙、蜂蜜1汤匙、玫瑰露酒（或白兰地）1汤匙、蒜蓉1茶匙、五香粉少许，充分混合。",
+      "将肉条放入腌料中，充分按摩使每面都裹满腌料，密封后放入冰箱冷藏腌制最少8小时，隔夜更佳。",
+      "烤箱预热至220°C，烤盘垫锡纸，烤架放上叉烧肉，在表面刷一层蜂蜜水（蜂蜜1:水1），放入烤箱烤15分钟。",
+      "翻面，再刷一层蜂蜜水，继续烤10分钟，此时边缘应开始出现焦糖化。再次翻面刷蜂蜜水，改用上下火加热模式或开启烧烤模式，烤5分钟至表皮出现焦斑。",
+      "取出静置5分钟后切片，切时要等稍微冷却，不然汁水会大量流失。剩余腌料加热收浓可作为蘸酱，搭配白米饭或叉烧包使用。"
+    ]
+  },
+  {
+    "name": "Three-Cup Chicken",
+    "name_zh": "三杯鸡",
+    "emoji": "🍗",
+    "mealType": "dinner",
+    "keywords": ["chicken", "sesame oil", "soy sauce", "Shaoxing wine", "basil", "garlic", "ginger"],
+    "description": "Taiwanese classic braised chicken with sesame oil, soy sauce, and rice wine — finished with fresh basil.",
+    "description_zh": "台式经典砂锅料理，麻油、酱油、米酒各一杯为底，九层塔（罗勒）收尾，香气浓郁，鸡肉入味弹嫩。",
+    "calories": 490,
+    "recipe": [
+      "鸡腿肉（或三黄鸡斩件）600g，剁成约4cm大块，用厨房纸吸干表面水分，鸡皮面先下入干净无油的砂锅或铁锅，中火煎至出油金黄。",
+      "加入大蒜10瓣（不去皮，直接拍裂）、老姜6-8片、干辣椒2个，翻炒至香味出来，蒜头稍微变色。",
+      "沿锅边淋入：黑麻油（台式三杯鸡用黑麻油，非一般芝麻油）2汤匙、酱油膏2汤匙（或生抽2汤匙）、米酒（绍兴酒）2汤匙、冰糖1汤匙（少量增亮）。",
+      "翻炒均匀后盖上盖子，转小火焖煮15-20分钟至鸡肉熟透，中间翻动2次，让汤汁均匀裹覆每块鸡肉。",
+      "开盖转大火收汁，翻炒至汤汁浓稠油亮，尝味调整酱油和糖的比例（应咸甜平衡）。",
+      "关火，放入大量新鲜九层塔（台湾罗勒，约一大把），利用余温翻拌，使香草香气融入菜肴但叶子不完全枯萎，立即上桌趁热享用。"
+    ]
+  },
+  {
+    "name": "Sweet & Sour Spare Ribs",
+    "name_zh": "糖醋排骨",
+    "emoji": "🍖",
+    "mealType": "dinner",
+    "keywords": ["pork ribs", "vinegar", "sugar", "soy sauce", "garlic"],
+    "description": "Crispy pork ribs glazed in a sticky sweet-sour sauce — better than takeout.",
+    "description_zh": "比糖醋里脊更过瘾的家常硬菜，排骨炸至外酥，裹上酸甜浓郁的糖醋汁，色泽红亮，老少皆宜。",
+    "calories": 540,
+    "recipe": [
+      "猪排骨（小排）500g斩成约4cm小段，冷水下锅加葱姜焯水5分钟，捞出沥干，用厨房纸吸干表面水分（这一步让油炸更酥脆）。",
+      "调糖醋汁：白醋（或香醋）3汤匙、白糖3汤匙、生抽2汤匙、番茄酱1汤匙（增色增浓稠）、清水2汤匙，混合搅拌至糖溶解备用。",
+      "排骨中加入生抽1汤匙、料酒1汤匙、淀粉2汤匙抓匀，腌制15分钟。锅中倒入足量油（排骨量的一倍），加热至170°C。",
+      "排骨分批放入油锅，中火炸约6分钟至金黄色，捞出；待油温升至190°C，复炸1-2分钟至外皮酥脆，这是酥脆的关键步骤。",
+      "另起干净锅，大蒜2瓣切片爆香，倒入调好的糖醋汁，中火煮至微微起泡变稠，此时放入炸好的排骨翻炒。",
+      "大火不断翻炒，让每块排骨都均匀裹上糖醋汁，至汤汁几乎收干，撒上白芝麻翻匀出锅，摆盘后再淋一圈剩余的糖醋汁。"
+    ]
   },
   {
     "name": "Peking Duck",
+    "name_zh": "北京烤鸭",
     "emoji": "🦆",
     "mealType": "dinner",
-    "keywords": [
-      "duck",
-      "scallion",
-      "cucumber"
-    ],
+    "keywords": ["duck", "scallion", "cucumber", "hoisin sauce", "pancake"],
     "description": "Crispy duck served with pancakes and hoisin sauce.",
+    "description_zh": "中华美食的名片，烤鸭皮薄酥脆，配上荷叶饼、黄瓜丝、葱丝和甜面酱，一口下去层次丰富，是北京最具代表性的名菜。",
     "calories": 560,
-    "recipe": []
-  },
-  {
-    "name": "Sweet & Sour Pork",
-    "emoji": "🍖",
-    "mealType": "dinner",
-    "keywords": [
-      "pork",
-      "vinegar",
-      "tomato",
-      "pepper"
-    ],
-    "description": "Crispy pork tossed in a vibrant sweet-sour glaze.",
-    "calories": 520,
-    "recipe": []
-  },
-  {
-    "name": "Hot Pot",
-    "emoji": "🍲",
-    "mealType": "dinner",
-    "keywords": [
-      "beef",
-      "tofu",
-      "mushroom",
-      "broth",
-      "noodle"
-    ],
-    "description": "Simmering broth with meats and vegetables.",
-    "calories": 600,
-    "recipe": []
+    "recipe": [
+      "整鸭1只（约2kg）提前一天处理：鸭颈处充气使皮肉分离（或用手指伸入皮下慢慢剥离），鸭身用烧开的麦芽糖水（麦芽糖2汤匙兑热水200ml）反复浇淋，挂于通风处风干一夜（至少8小时），让鸭皮完全干燥收紧。",
+      "烤箱预热至220°C，烤盘中加水（防止滴落油脂起烟），将鸭子胸部朝上放在烤架上，鸭腔内塞入葱段、姜片、八角。",
+      "先高温220°C烤20分钟使皮开始上色，转180°C烤40分钟，中途翻面一次烤背部，再转回正面，最后10分钟刷一层麦芽糖水增色，使表皮深红油亮。",
+      "趁热片鸭：先将鸭皮单独片成薄片（最珍贵的部分），再片鸭胸、鸭腿肉，传统吃法要求片鸭肉每片都要带皮。",
+      "荷叶饼：将面粉与开水按2:1调制，揉成面团，擀成薄圆片，两片叠加中间涂油，蒸8分钟，趁热揭开成薄透的荷叶饼。",
+      "摆盘：荷叶饼、甜面酱（或海鲜酱）、细葱丝、黄瓜丝、鸭片分开上桌，食用时取一张饼，抹上酱料，铺上葱丝黄瓜丝，放上带皮鸭肉，卷起享用。"
+    ]
   },
   {
     "name": "Steamed Fish",
+    "name_zh": "清蒸鱼",
     "emoji": "🐟",
     "mealType": "dinner",
-    "keywords": [
-      "fish",
-      "ginger",
-      "soy sauce",
-      "scallion"
-    ],
+    "keywords": ["fish", "ginger", "soy sauce", "scallion", "sesame oil"],
     "description": "Whole fish steamed with ginger and soy sauce.",
+    "description_zh": "粤菜中最能体现食材本味的做法，鱼肉细嫩鲜甜，蒸鱼豉油是灵魂，最后浇热油激香是点睛之笔。",
     "calories": 300,
-    "recipe": []
+    "recipe": [
+      "鲜鱼（鲈鱼、桂鱼或黄花鱼均可）一条约600g，清洗处理干净，在鱼身两侧各划3-4刀（斜切深至骨），方便入味和均匀受热。",
+      "生姜切细丝，葱切长段铺在蒸盘底部（垫高鱼身让蒸汽循环），鱼腔内塞入姜片和葱段，鱼背刀口处也塞入姜丝，淋少许料酒。",
+      "蒸锅大火烧开，水开后再放入鱼（必须待水沸腾再放），中大火蒸6-8分钟（根据鱼的厚度调整，每500g约蒸7分钟），不要蒸过熟。",
+      "蒸好后倒掉盘中多余的腥水（含有腥味物质），将新切的细姜丝和葱丝铺在鱼身上，另取一条葱丝和红辣椒丝点缀颜色。",
+      "淋上蒸鱼豉油（或生抽）2-3汤匙，沿鱼身均匀淋下。",
+      "另取小锅烧热花生油或猪油3汤匙至冒烟（约200°C），直接从头到尾浇在葱姜丝上，热油激发出葱姜香气——此为点睛之笔，不可省略，立即上桌。"
+    ]
+  },
+  {
+    "name": "Hot Pot",
+    "name_zh": "火锅",
+    "emoji": "🍲",
+    "mealType": "dinner",
+    "keywords": ["beef", "tofu", "mushroom", "broth", "noodle", "tripe", "shrimp"],
+    "description": "Simmering broth with meats and vegetables.",
+    "description_zh": "中国最具社交属性的饮食文化，麻辣红汤滚烫沸腾，众人围桌而坐，涮出属于冬日的温暖记忆。",
+    "calories": 600,
+    "recipe": [
+      "底汤制作（麻辣红汤）：牛油100g放入锅中小火融化，放入郫县豆瓣酱3汤匙、干辣椒20g、花椒15g、姜蒜各适量，小火翻炒30分钟出红油，加入高汤2升，煮开后即成火锅底料。",
+      "蘸料调制（每人份）：芝麻酱2汤匙用凉白开调稀，加入蒜泥、香菜末、小葱末、生抽、香油，重庆人喜欢纯用香油+蒜泥，成都人喜加干碟（辣椒面+花椒面）。",
+      "食材切备：牛肉片、羔羊肉片（冷冻后切薄更佳）、毛肚（清水浸泡1小时后撕成片）、鸭肠（洗净）、豆腐、冻豆腐（冻过后更入味）、各种菌菇、宽粉、藕片。",
+      "蔬菜处理：生菜、菠菜洗净；土豆、南瓜切薄片；豆芽、木耳泡发；午餐肉、虾滑、鱼丸等速食食材备好。",
+      "涮烫顺序：先涮毛肚（约5-7秒，颤动即熟，不可久涮）、鸭肠，再涮肉片（3-5秒）；蔬菜最后下，豆腐冻豆腐需多煮一会儿才入味。",
+      "吃法提示：毛肚讲究\"七上八下\"——在汤中上下提拉七至八次，口感最脆嫩；牛肉卷在汤中抖散涮30秒即可；宽粉需煮5-8分钟至软糯。"
+    ]
   },
   {
     "name": "Claypot Rice",
+    "name_zh": "煲仔饭",
     "emoji": "🫕",
     "mealType": "dinner",
-    "keywords": [
-      "rice",
-      "chinese sausage",
-      "pork",
-      "soy sauce",
-      "lard"
-    ],
+    "keywords": ["rice", "chinese sausage", "pork", "soy sauce", "lard"],
     "description": "Cantonese claypot rice with cured sausage, pork belly, and a crispy golden crust.",
+    "description_zh": "腊肠腊肉煲仔饭，底部有酥脆金黄锅巴，粤式经典，锅巴是灵魂所在。",
     "calories": 620,
     "recipe": [
-      "Rinse 350g jasmine rice and soak in cold water for 40 minutes, then drain well. Soaking ensures even cooking regardless of rice variety.",
-      "Blanch Chinese kale in salted boiling water with a small splash of baijiu (white spirits) for 10 seconds until bright green. Immediately transfer to cold water to stop cooking and keep it crisp.",
-      "Blanch 150g Chinese sausage and cured pork belly together in boiling water for 2 minutes to clean and draw out their aroma. While still hot, peel the casing off the sausage, then slice both on a diagonal.",
-      "Make the claypot sauce: fry sliced scallion, 2 garlic cloves, a small piece of onion, 1 star anise, 1 bay leaf, and a pinch of fennel seeds in oil over medium heat until golden. Add 3 tbsp light soy sauce, ½ tbsp oyster sauce, ½ tbsp dark soy sauce, and 1 tsp sugar. Stir, add 4 tbsp water, bring to a boil, and simmer 15 seconds. Strain and set aside.",
-      "Generously grease a clay pot — bottom and sides — with lard or peanut oil (about 4 spoonfuls). This prevents sticking and builds the signature crust.",
-      "Add 400g cold water to the greased pot and bring to a boil over high heat. Just as the edges begin to bubble (before a full rolling boil), pour in the drained rice and spread it flat with a spatula.",
-      "Cook uncovered on high heat until the water reaches a full boil. Reduce to medium-low, cover with the lid slightly ajar, and steam for 2 minutes until almost all the water is absorbed.",
-      "Quickly arrange the sliced sausage and pork on top of the rice. Drizzle oil in a circle along the inner edge of the pot. Cover fully and reduce to the lowest heat setting.",
-      "Rotate the pot 90° every 3 minutes so each quarter of the bottom faces the flame — 4 rotations × 3 minutes = 12 minutes total. This evenly crisps all sides of the crust without burning any spot.",
-      "Turn off the heat. Drizzle the claypot sauce generously over the rice, top with the blanched greens, and toss everything together. Scrape up the golden crunchy crust from the bottom — that's the best part."
+      "将350g泰国香米或丝苗米淘洗干净，冷水浸泡40分钟后沥干。浸泡能确保米粒均匀受热熟透。",
+      "将芥蓝菜在加盐的沸水中，加一小勺白酒，焯烫10秒至翠绿，立即捞入冷水中停止加热，保持脆嫩口感。",
+      "将150g广式腊肠和腊肉放入沸水中烫2分钟去除多余油脂和杂质，趁热剥去腊肠外衣，斜切成片备用。",
+      "制作煲仔饭酱汁：葱段、大蒜2瓣、小块洋葱、八角1个、香叶1片、少许茴香籽在油锅中小火炸至金黄，加生抽3汤匙、蚝油半汤匙、老抽半汤匙、白糖1茶匙，加水4汤匙烧开，小火熬15秒，过滤备用。",
+      "砂锅内壁和底部涂抹大量猪油或花生油（约4汤匙），加400g冷水大火烧开，待边缘开始冒泡（非完全沸腾时）倒入沥干的米，用铲子摊平。",
+      "大火煮至完全沸腾，转中小火，盖上锅盖留缝，蒸约2分钟至水分基本吸收，快速铺上腊肠腊肉，沿锅边内壁画圈淋油，盖紧锅盖转最小火。",
+      "每3分钟将砂锅旋转90°，共旋转4次（共12分钟），让底部锅巴均匀受热，避免局部焦煳。关火后淋上煲仔饭酱汁，铺上芥蓝，翻拌后刮起锅巴享用。"
     ]
   }
 ]
